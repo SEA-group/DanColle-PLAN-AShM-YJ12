@@ -1,5 +1,9 @@
 ﻿# [AP only] PLAN YJ-12 ASGM / 鹰击12反舰巡航导弹
 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/DanColle-YJ12?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/DanColle-YJ12)
+![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/DanColle-YJ12)
+
 AP shell model modification
 
 ## Installation
